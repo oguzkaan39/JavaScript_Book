@@ -1,9 +1,9 @@
-##What Can 'getElementById' Method Do?
+## What Can 'getElementById' Method Do?
 *_`getElementById` method is change the HTML element by use the element's id._*
-####For Example;
+#### For Example;
 ```
-<p **id="demo"**>Click button and view the result</p>
-  <button type="button", onclick="document.getElementById**('demo')**.innerHTML=('Content is changed')">Click Me!</button>
+<p id="demo">Click button and view the result</p>
+  <button type="button", onclick="document.getElementById('demo').innerHTML=('Content is changed')">Click Me!</button>
 
 ```
 * In getElementById_01.html
